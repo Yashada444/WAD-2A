@@ -1,0 +1,4 @@
+name:yashadafunde
+class:teit
+rollno:35022
+subject:wad
